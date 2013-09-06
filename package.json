@@ -1,0 +1,16 @@
+{
+  "name": "zepto-detect",
+  "version": "0.0.0",
+  "description": "The detect portion of zepto.js structured for use with browserify.",
+  "main": "zepto-detect.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HenrikJoreteg/zepto-detect.git"
+  },
+  "keywords": [
+    "zepto",
+    "browser"
+  ],
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "license": "MIT"
+}
