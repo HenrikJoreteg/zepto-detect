@@ -2,7 +2,7 @@
 
 The awesome browser/os detection portion of zepto.js structured for use with browserify.
 
-Pulled from master branch of zepto.js on Sept. 6, 2013.
+Pulled from [master branch of zepto.js on Feb 28, 2014](https://github.com/madrobby/zepto/blob/db27729cc2af64105c7d598c94f5d6ca60acf2f4/src/detect.js)
 
 ## Credits
 
